@@ -1,0 +1,4 @@
+function logodegis()
+{
+    alert("hi")
+}
